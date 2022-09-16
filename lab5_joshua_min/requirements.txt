@@ -50,7 +50,7 @@ kiwisolver==1.1.0
 lensfun==0.3.2
 lightdm-gtk-greeter-settings==1.2.2
 lit==0.9.0.dev0
-Mako==1.0.14
+Mako==1.2.2
 Markdown==3.1.1
 MarkupSafe==1.1.1
 matplotlib==3.1.1
